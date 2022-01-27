@@ -36,9 +36,13 @@ public class Calculator {
 	}
 
 	private void setupDefaultOperations() {
+	    // Kommentar spongeborns
+		// Kommentar 2
 	    // Das ist der erste Kommentar in masterGithub
 	    // Das ist der zweite Kommentar in master
 	    // auch noch ein Kommentar von Ruth
+		// hallo hier ist ein Kommentar :)
+		// Kommentar nr2
 		// weitere Funktionen folgen! EDIT Comment
 	    // hier ist ein Kommentar von WBeckmann
 		new Equals();
